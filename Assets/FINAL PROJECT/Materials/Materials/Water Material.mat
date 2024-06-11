@@ -46,7 +46,7 @@ Material:
     - _QueueOffset: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 0}
-    - _Scroll_Velocity: {r: 0.25, g: 0.25, b: 0, a: 0}
+    - _Scroll_Velocity: {r: 0.26, g: 0.25, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &6988022675521447909
 MonoBehaviour:
